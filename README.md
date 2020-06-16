@@ -1,4 +1,4 @@
-# FaceRecognition
+# FaceRecognition_AUTCUP2019_@HomeRobotTeam 
 
 This project is for AUT#Home team for AUTCUP2013 face recognition challenge.
 Sepanta is the name of AUT@Home Robot. In this project Sepanta was supposed to recognize 5 differnt people and then call their name.
